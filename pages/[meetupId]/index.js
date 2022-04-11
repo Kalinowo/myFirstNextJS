@@ -28,7 +28,7 @@ export async function getStaticPaths() {
   const meetups = await meetupsCollection.find({}, { _id: 1 }).toArray();
   return {
     //設定為false時只有支援的path才會被顯示, 否則顯示404
-    fallback: "block",
+    fallback: "blocking",
     paths: meetups.map((meetup) => ({
       params: { meetupId: meetup._id.toString() },
     })),
