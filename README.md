@@ -2,6 +2,7 @@ This is my first time using Next.js and it is a copy from Youtube Channel 'Acade
 The purpose of this project is to have a brief understanding of how Next.js work.
 
 The only difference is that I made some changed to the css and make it a responsive website.
+
 Link：https://kal-first-next-js.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
