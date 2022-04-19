@@ -6,7 +6,7 @@ The only difference is that I made some changed to the css and make it a respons
 
 Link：https://kal-first-next-js.vercel.app/
 
-------------
+-----
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
